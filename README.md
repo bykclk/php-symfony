@@ -3,7 +3,6 @@
 ### Includes:
 
 - composer
-- git
 - pdo
 - pdo_mysql
 - pdo_pgsql
