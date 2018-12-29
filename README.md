@@ -1,4 +1,4 @@
-# PHP7.2 Image for Symfony Development
+# PHP7.3 Image for Symfony Development
 
 ### Includes:
 
